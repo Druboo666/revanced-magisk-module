@@ -33,7 +33,7 @@ uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Spotify]
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
-version = "9.0.42.529"
+version = "9.0.46.496"
 patcher-args = "-e 'Custom theme' -ObackgroundColor=#000000 -OoverridePlayerGradientColor=#000000 -ObackgroundColorSecondary=#000000 -OaccentColor=#000000 -OaccentColorPressed=#000000"
 
 # dont build on gh actions (https://github.com/j-hc/revanced-magisk-module/issues/554)
